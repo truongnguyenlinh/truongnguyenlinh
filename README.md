@@ -3,7 +3,7 @@
 
 <h3>Hi, I'm Linh 👋</h3>
 <table>
-  <tr>
+  <tr style="display:none">
     <td>:woman_technologist: Software Developer Student<br>
         :brain: <b>Most Recent Project:</b> <a href="https://github.com/focus
         -storm">focus</a> </td>
