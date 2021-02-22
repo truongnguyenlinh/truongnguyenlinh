@@ -1,16 +1,15 @@
-### Hi there 👋
+---
+title: GitHub Landing Page
+creator: Linh Truong
+---
+<link rel="stylesheet" type="text/css" media="all" href="css/styles.css" />
 
-<!--
-**truongnguyenlinh/truongnguyenlinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>Hi, I'm Linh 👋</h1>
+<div>
+    👩🏻‍💻Software Developer Student<br>
+    🧠<b>Most Recent Project:</b> <a href="https://github.com/focus-storm">focus</a> 
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongnguyenlinh&hide=css&layout=compact" alt="Linh's Top Languages">
