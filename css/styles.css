@@ -2,3 +2,7 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 	margin: 100px;
 }
+
+.inline-block-child {
+  display: inline-block;
+}
